@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@cloudbase/node-sdk": "^2.7.1",
+    "@cloudbase/vue-provider": "^0.5.2"
+  }
+}
